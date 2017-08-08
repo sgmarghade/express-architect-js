@@ -1,0 +1,15 @@
+{
+  "name": "express-architect-js",
+  "version": "1.0.0",
+  "description": "Using architectjs with Express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "architect": "^0.1.13",
+    "express": "^4.15.4"
+  }
+}

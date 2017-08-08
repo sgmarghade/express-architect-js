@@ -1,0 +1,13 @@
+{
+  "name": "swapnil-orders-plugin",
+  "plugin": {
+    "consumes": [
+      "Order",
+      "User"
+    ],
+    "provides": [
+      "orderRoutes"
+    ]
+  },
+  "main": "index.js"
+}

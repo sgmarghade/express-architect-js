@@ -1,0 +1,13 @@
+{
+  "name": "swapnil-models-plugin",
+  "plugin": {
+    "consumes": [
+
+    ],
+    "provides": [
+      "Order",
+      "User"
+    ]
+  },
+  "main": "index.js"
+}
