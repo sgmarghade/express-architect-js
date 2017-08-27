@@ -1,4 +1,4 @@
-This is hello world app for integration of ExpressJs with ArchitectJs.
+This is hello world app wth ExpressJs and ArchitectJs integration.
 
 ExpressJs : https://expressjs.com/
 	
